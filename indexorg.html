@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <!-- A-FrameのJavaScriptファイルを読み込みます -->
+  <script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
+</head>
+<body>
+<!-- シーン -->
+<a-scene>
+  <a-entity camera look-controls wasd-controls>
+    <!-- カーソル -->
+    <a-entity cursor="maxDistance: 30; fuse: true"
+          position="0 0 -3"
+          geometry="primitive: ring; radiusInner: 0.2; radiusOuter: 0.3;"
+          material="color: black; shader: flat">
+          <a-animation begin="click" easing="ease-in" attribute="scale" dur="150"
+               fill="forwards" from="0.1 0.1 0.1" to="1 1 1"></a-animation>
+          <a-animation begin="fusing" easing="ease-in" attribute="scale" dur="1500"
+               fill="backwards" from="1 1 1" to="0.1 0.1 0.1"></a-animation>
+    </a-entity>
+  </a-entity>
+  <!-- 3D Objects -->
+  <a-assets>
+      <a-asset-item id="crate-obj" src="kura/kura.obj"></a-asset-item>
+      <a-asset-item id="crate-mtl" src="kura/kura.mtl"></a-asset-item>
+    </a-assets>
+    <a-assets>
+      <a-asset-item id="crate2-obj" src="mimori_nagayamon/mimori_nagayamon.obj"></a-asset-item>
+      <a-asset-item id="crate2-mtl" src="mimori_nagayamon/mimori_nagayamon.mtl"></a-asset-item>
+　</a-assets>
+<a-obj-model position="20 -7 -70" rotation="-90 0 -45" scale="0.06 0.06 0.06" src="#crate-obj" mtl="#crate-mtl">
+  <a-animation begin="click" attribute="rotation" to="0 360 0"
+  easing="linear" dur="2000" fill="backwards"></a-animation>
+</a-obj-model>
+<a-obj-model position="-70 -27 -70" rotation="-90 0 -45" scale="0.006 0.006 0.006" src="#crate2-obj" mtl="#crate2-mtl">
+  <a-animation begin="click" easing="ease-in" attribute="scale" dur="1500"  repeat="1"
+  direction="alternate" 
+  fill="forwards" from="0.006 0.006 0.006" to="0.01 0.01 0.01"></a-animation>
+</a-obj-model>
+<!-- 背景 -->
+  <a-sky color="#fafafa"></a-sky>
+  <a-sky src="./farm.jpg"></a-sky>
+</a-scene>
+</body>
+
+</html>

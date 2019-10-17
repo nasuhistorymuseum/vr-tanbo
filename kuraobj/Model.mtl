@@ -1,0 +1,885 @@
+# Exported from 3D Builder
+
+newmtl entity_textures_entity_chest_trapped_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_1
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_trapped_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_1
+
+newmtl entity_textures_entity_chest_trapped_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_1
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_normal_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0
+
+newmtl entity_textures_entity_chest_trapped_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_1
+
+newmtl entity_textures_entity_chest_trapped_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_1
+
+newmtl entity_textures_entity_chest_trapped_OC0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_1
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White_0
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.02.png
+
+newmtl White_0
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.02.png
+
+newmtl White_1
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.01.png
+
+newmtl White_1
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.01.png
+
+newmtl White_1
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.01.png
+
+newmtl White_1
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.01.png
+
+newmtl White_2
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.png
+
+newmtl White_2
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.png
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White_3
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.01.png
+
+newmtl White_3
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.01.png
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White_4
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.02.png
+
+newmtl White_4
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.02.png
+
+newmtl White_4
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.02.png
+
+newmtl White_4
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.02.png
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.04.png
+
+newmtl White_3
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.01.png
+
+newmtl White_3
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.01.png
+
+newmtl White_5
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.03.png
+
+newmtl White_5
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.03.png
+
+newmtl White_6
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.png
+
+newmtl White_6
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442b0.png
+
+newmtl White_2
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.png
+
+newmtl White_2
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442a0.png
+
+newmtl White_7
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_3.png
+
+newmtl White_7
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_3.png
+
+newmtl White_7
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_3.png
+
+newmtl White_7
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_3.png
+
+newmtl White_8
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442fe.png
+
+newmtl White_9
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442fe.01.png
+
+newmtl White_8
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442fe.png
+
+newmtl White_9
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4442fe.01.png
+
+newmtl White_10
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.15.png
+
+newmtl White_11
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.01.png
+
+newmtl White_12
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.05.png
+
+newmtl White_13
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.04.png
+
+newmtl White_14
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.03.png
+
+newmtl White_15
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.12.png
+
+newmtl White_16
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.11.png
+
+newmtl White_17
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.07.png
+
+newmtl White_18
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.08.png
+
+newmtl White_19
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.06.png
+
+newmtl White_20
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.10.png
+
+newmtl White_21
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.05.png
+
+newmtl White_22
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.11.png
+
+newmtl White_23
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.png
+
+newmtl White_24
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.01.png
+
+newmtl White_25
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.png
+
+newmtl White_26
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.10.png
+
+newmtl White_27
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.01.png
+
+newmtl White_28
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.02.png
+
+newmtl White_29
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.10.png
+
+newmtl White_30
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.04.png
+
+newmtl White_31
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.09.png
+
+newmtl White_32
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.09.png
+
+newmtl White_33
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.08.png
+
+newmtl White_34
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.08.png
+
+newmtl White_35
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.05.png
+
+newmtl White_36
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.12.png
+
+newmtl White_37
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.07.png
+
+newmtl White_38
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.07.png
+
+newmtl White_39
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.02.png
+
+newmtl White_40
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.03.png
+
+newmtl White_41
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.05.png
+
+newmtl White_42
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.10.png
+
+newmtl White_43
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.10.png
+
+newmtl White_44
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.03.png
+
+newmtl White_45
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.06.png
+
+newmtl White_46
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.16.png
+
+newmtl White_47
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.06.png
+
+newmtl White_48
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.05.png
+
+newmtl White_49
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.11.png
+
+newmtl White_50
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.06.png
+
+newmtl White_51
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.14.png
+
+newmtl White_52
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.11.png
+
+newmtl White_53
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.13.png
+
+newmtl White_54
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.09.png
+
+newmtl White_55
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.02.png
+
+newmtl White_56
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.02.png
+
+newmtl White_57
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.07.png
+
+newmtl White_58
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.06.png
+
+newmtl White_59
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.09.png
+
+newmtl White_60
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.17.png
+
+newmtl White_61
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.12.png
+
+newmtl White_62
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.09.png
+
+newmtl White_63
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.11.png
+
+newmtl White_64
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.07.png
+
+newmtl White_65
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.12.png
+
+newmtl White_66
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.13.png
+
+newmtl White_67
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.04.png
+
+newmtl White_68
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.08.png
+
+newmtl White_69
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.04.png
+
+newmtl White_70
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.03.png
+
+newmtl White_71
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.03.png
+
+newmtl White_72
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.01.png
+
+newmtl White_73
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.08.png
+
+newmtl White_74
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.01.png
+
+newmtl White_75
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.17.png
+
+newmtl White_76
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.04.png
+
+newmtl White_77
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.png
+
+newmtl White_78
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.16.png
+
+newmtl White_79
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.14.png
+
+newmtl White_80
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.png
+
+newmtl White_81
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.02.png
+
+newmtl White_82
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.15.png
+
+newmtl White_10
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.15.png
+
+newmtl White_15
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.12.png
+
+newmtl White_83
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44436b.png
+
+newmtl White_29
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.10.png
+
+newmtl White_14
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.03.png
+
+newmtl White_32
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.09.png
+
+newmtl White_34
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.08.png
+
+newmtl White_7
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_3.png
+
+newmtl White_7
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_3.png
+
+newmtl White_10
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.15.png
+
+newmtl White_84
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443e8.png
+
+newmtl White_11
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.01.png
+
+newmtl White_12
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.05.png
+
+newmtl White_30
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.04.png
+
+newmtl White_20
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.10.png
+
+newmtl White_26
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.10.png
+
+newmtl White_15
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.12.png
+
+newmtl White_85
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443aa.07.png
+
+newmtl White_16
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.11.png
+
+newmtl White_24
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.01.png
+
+newmtl White_13
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.04.png
+
+newmtl White_28
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.02.png
+
+newmtl White_21
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.05.png
+
+newmtl White_19
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.06.png
+
+newmtl White_69
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.04.png
+
+newmtl White_23
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.png
+
+newmtl White_31
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.09.png
+
+newmtl White_14
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.03.png
+
+newmtl White_83
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44436b.png
+
+newmtl White_86
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443aa.05.png
+
+newmtl White_87
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443b9.png
+
+newmtl White_88
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443aa.06.png
+
+newmtl White_29
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44431d.10.png
+
+newmtl White_32
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.09.png
+
+newmtl White_89
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.03.png
+
+newmtl White_34
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.08.png
+
+newmtl White_90
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.02.png
+
+newmtl White_68
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.08.png
+
+newmtl White_67
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.04.png
+
+newmtl White_50
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.06.png
+
+newmtl White_91
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443e8.03.png
+
+newmtl White_54
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.09.png
+
+newmtl White_51
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.14.png
+
+newmtl White_52
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.11.png
+
+newmtl White_92
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443e8.02.png
+
+newmtl White_33
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.08.png
+
+newmtl White_38
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.07.png
+
+newmtl White_36
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.12.png
+
+newmtl White_40
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.03.png
+
+newmtl White_47
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.06.png
+
+newmtl White_44
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.03.png
+
+newmtl White_58
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.06.png
+
+newmtl White_73
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.08.png
+
+newmtl White_62
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.09.png
+
+newmtl White_64
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.07.png
+
+newmtl White_60
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.17.png
+
+newmtl White_41
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.05.png
+
+newmtl White_57
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44433c.07.png
+
+newmtl White_42
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.10.png
+
+newmtl White_76
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.04.png
+
+newmtl White_46
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.16.png
+
+newmtl White_61
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.12.png
+
+newmtl White_63
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44432d.11.png
+
+newmtl White_70
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44434c.03.png
+
+newmtl White_93
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443d9.01.png
+
+newmtl White_45
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.06.png
+
+newmtl White_94
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443d9.png
+
+newmtl White_95
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443e8.01.png
+
+newmtl White_96
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.07.png
+
+newmtl White_71
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.03.png
+
+newmtl White_97
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443aa.png
+
+newmtl White_98
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.08.png
+
+newmtl White_99
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443aa.04.png
+
+newmtl White_100
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443aa.03.png
+
+newmtl White_37
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44430d.07.png
+
+newmtl White_101
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.06.png
+
+newmtl White_102
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.04.png
+
+newmtl White_103
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d4443aa.02.png
+
+newmtl White_104
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.09.png
+
+newmtl White_105
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.01.png
+
+newmtl White_106
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.11.png
+
+newmtl White_107
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.02.png
+
+newmtl White_108
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.png
+
+newmtl White_109
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.08.png
+
+newmtl White_110
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.05.png
+
+newmtl White_111
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.04.png
+
+newmtl White_112
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.09.png
+
+newmtl White_113
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.03.png
+
+newmtl White_114
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.png
+
+newmtl White_115
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.12.png
+
+newmtl White_116
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44439a.01.png
+
+newmtl White_117
+Kd 1.000000 1.000000 1.000000
+map_Kd BakedTexture0d44438a.13.png
